@@ -1,0 +1,15 @@
+{
+  "name": "Hooks-with-lumentis",
+  "description": "Podcast with 2 hosts (Sam and Shaan) and their guest Jason Fried",
+  "version": "0.0.1",
+  "scripts": {
+    "devstart": "next dev -p 5656 & node start.js",
+    "dev": "next dev -p 5656",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "startups",
+    "business"
+  ]
+}
